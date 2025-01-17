@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poojaanv
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Google data analytics
+- 🌱 I’m currently learning Google Advanced data analytics
 
 
 <!---
